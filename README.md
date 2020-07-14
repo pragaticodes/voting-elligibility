@@ -1,8 +1,9 @@
 # voting-elligibility
 //thi is a program to check your voting elligibility//
-#include<iostream>
+
+#include<iostream>	
 int main(){
-	
+	#
 	int  age;
 	std::cout<<"enter your age:"<<age;
 	std::cin>>age;
